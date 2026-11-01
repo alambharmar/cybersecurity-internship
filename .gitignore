@@ -1,0 +1,9 @@
+.DS_Store
+*.pcap
+*.pcapng
+*.ova
+*.vdi
+*.qcow2
+*.utm/
+*.key
+*.pem
