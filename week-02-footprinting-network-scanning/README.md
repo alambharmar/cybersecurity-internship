@@ -13,7 +13,7 @@ The practical work included collecting publicly available information about Netw
 
 ## Lab Environment
 
-This week's practicals were performed using separate environments:
+The practicals were performed using separate environments:
 
 | Activity | Environment |
 |---|---|
@@ -22,11 +22,14 @@ This week's practicals were performed using separate environments:
 | Network Scanning Tool | Zenmap (Nmap GUI) |
 | Network Scanned | My own local LAN (192.168.1.0/24) |
 
-**Note:** Unlike Week 1, this week's network scanning practical was performed on a Windows PC. The macOS + UTM environment documented in Week 1 does not apply to this activity.
+**Note:** Unlike Week 1, the network scanning practical was performed on a Windows PC. The macOS + UTM environment documented in Week 1 does not apply to this activity.
 
 ## Modules Completed
 
-### W2-PM1 – Multiple Kali Tools
+### W2-PM1 – Footprinting & Reconnaissance
+
+Tools used:
+
 - WHOIS
 - WhatWeb
 - Nslookup
@@ -34,18 +37,25 @@ This week's practicals were performed using separate environments:
 - Wafw00f
 - DNSRecon
 
-### W2-PM5 – Zenmap Scanning
+Evidence: [View W2-PM1 screenshots and supporting text files](./screenshots/W2-PM1/)
+
+### W2-PM5 – Network Scanning with Zenmap
+
+Activities performed:
+
 - Identifying local network details using `ipconfig /all`
 - Ping scan for live host discovery
 - Quick scan for open ports
-- Network topology mapping
+- Reviewing network scan results
 
-## Report
+Evidence: [View W2-PM5 screenshots and Zenmap legend](./screenshots/W2-PM5/)
 
-The complete practical report, including commands, observations, risk analysis, recommendations, and screenshot evidence, is available below.
+## Final Report
 
-📄 [W2-PM-FINAL Report](./W2-PM-FINAL_Report_Muhammad_Alam_Raza_Bharmar_B084.docx)
+The complete practical report includes commands, observations, scan results, risk analysis, recommendations, and embedded screenshot evidence.
+
+[**W2-PM-FINAL – Download the Practical Report**](./W2-PM-FINAL_Report_Muhammad_Alam_Raza_Bharmar_B084.docx)
 
 ## Disclaimer
 
-All activities were conducted for educational purposes on systems and networks owned by me or where written authorization was secured.
+All activities were conducted for educational purposes on systems and networks owned by me or where authorization was secured.
