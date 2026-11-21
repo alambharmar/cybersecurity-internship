@@ -1,22 +1,41 @@
 # Cybersecurity Internship Projects
 
-Weekly project work for the Cybersecurity Program at **Networkwalks**.
+Weekly practical projects and technical reports completed during the Cybersecurity Internship Program at **Networkwalks**.
 
-**Name:** Muhammad Alam Bharmar
+**Name:** Muhammad Alam Bharmar  
 **Batch:** B084B
-
-All work here is done in my own isolated lab, or in the provided training labs. Nothing is tested on networks I do not own or have permission to test.
 
 ## Progress
 
 | Week | Project | Status |
 |------|---------|--------|
-| 1 | [Cybersecurity lab setup (Kali Linux on UTM)](week-01-lab-setup/) | Done |
-| 2 | Coming soon | |
+| 1 | Cybersecurity Lab Setup – Kali Linux on UTM | Completed |
+| 2 | Footprinting and Network Scanning | Completed |
+| 3 | Password Security – JTR and Network Tools | Completed |
 
-## Lab environment
+## Repository Structure
 
-- Host: macOS (Apple Silicon)
-- Hypervisor: UTM (QEMU backend)
-- Attacker machine: Kali Linux
-- Network: 10.0.0.0/24, Kali at 10.0.0.2
+- `week-01-lab-setup/` – Virtual lab setup and Kali Linux
+- `week-02-footprinting-network-scanning/` – Network footprinting and scanning
+- `week-03-password-security/` – Password security projects (PM1 and PM2)
+
+## Lab Environments
+
+The working environment varies depending on the project.
+
+- **Week 1:** macOS (Apple Silicon), UTM and Kali Linux
+- **Week 2:** Refer to the individual project report for environment details
+- **Week 3:** Windows environment with password auditing tools
+
+## Topics Covered
+
+- Virtual machine and lab setup
+- Network footprinting
+- Network scanning using Nmap and Zenmap
+- Password security and auditing
+- John the Ripper (JTR)
+- Network security tools
+
+## Disclaimer
+
+All practical work is intended for authorized training and controlled lab environments. No testing is conducted against systems without permission.

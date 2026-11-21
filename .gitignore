@@ -7,3 +7,6 @@
 *.utm/
 *.key
 *.pem
+.DS_Store
+week-03-password-security/PM1/Files/
+week-03-password-security/PM2/Files/
